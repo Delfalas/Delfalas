@@ -17,13 +17,43 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delfalas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars)
-## Linguagens que eu uso
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Delfalas&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Conteúdo do meu Repositório
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Delfalas&repo=vD-Host&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Delfalas/vD-Host)
+## 🚀 Tech Stack & Main Languages
 
-📌 **Descrição**: Projeto de hospedagem web, focado em performance e escalabilidade. Utiliza tecnologias modernas para garantir uma experiência fluída.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20REST-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+<p align="center">
+  💡 Foco em desenvolvimento backend com <strong>Java + Spring Boot</strong>, construção de APIs REST escaláveis e integração entre sistemas.
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delfalas&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF"/>
+</p>
+
+---
+## ⭐ Featured Project
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Delfalas&repo=bff-agendador-tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Delfalas/bff-agendador-tarefas)
+
+📌 **Descrição**:  
+Backend For Frontend (BFF) desenvolvido com **Spring Boot**, responsável pela orquestração de serviços de agendamento de tarefas, integração entre APIs e gerenciamento de fluxos de negócio.  
+
+💡 O projeto aplica boas práticas como:
+- Arquitetura em camadas  
+- Comunicação entre microsserviços  
+- Integração com banco relacional e NoSQL  
+- Uso de APIs REST escaláveis  
+
+🚀 Focado em demonstrar habilidades reais de mercado em **backend Java**, **integração de sistemas** e **arquitetura moderna**.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Delfalas&repo=Projeto-A3-Usabilidade-e-Desenvolvimento-Web-Mobile-e-Jogos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Delfalas/Projeto-A3-Usabilidade-e-Desenvolvimento-Web-Mobile-e-Jogos)
 
