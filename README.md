@@ -16,7 +16,7 @@
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delfalas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Delfalas&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ## 🚀 Tech Stack & Main Languages
 
@@ -36,13 +36,13 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delfalas&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Delfalas&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
 ## ⭐ Featured Project
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Delfalas&repo=bff-agendador-tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Delfalas/bff-agendador-tarefas)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Delfalas&repo=bff-agendador-tarefas&theme=tokyonight&cache_seconds=86400)](https://github.com/Delfalas/bff-agendador-tarefas)
 
 📌 **Descrição**:  
 Backend For Frontend (BFF) desenvolvido com **Spring Boot**, responsável pela orquestração de serviços de agendamento de tarefas, integração entre APIs e gerenciamento de fluxos de negócio.  
@@ -57,7 +57,7 @@ Backend For Frontend (BFF) desenvolvido com **Spring Boot**, responsável pela o
 
 ---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Delfalas&repo=Projeto-A3-Usabilidade-e-Desenvolvimento-Web-Mobile-e-Jogos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Delfalas/Projeto-A3-Usabilidade-e-Desenvolvimento-Web-Mobile-e-Jogos)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Delfalas&repo=Projeto-A3-Usabilidade-e-Desenvolvimento-Web-Mobile-e-Jogos&theme=tokyonight&cache_seconds=86400)](https://github.com/Delfalas/Projeto-A3-Usabilidade-e-Desenvolvimento-Web-Mobile-e-Jogos)
 
 📌 **Descrição**: Projeto acadêmico voltado para estudo e aplicação de técnicas de usabilidade no desenvolvimento web, mobile e jogos.
 
